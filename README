@@ -1,0 +1,6 @@
+This is a partial MATLAB implementation of the Fibonacci Heap data structure. It began as a project for a course, and ended up not being useful for the originally intended purpose due to locality of reference.
+
+See the "README.pdf" file for instructions on use, a description of the originally intended purpose, and details on what's missing in this partial implementation.
+
+MATLAB Central File Exchange link:
+<http://www.mathworks.com/matlabcentral/fileexchange/30072-fibonacci-heap>
